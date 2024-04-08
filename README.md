@@ -38,3 +38,7 @@ handgesture detection is based on counting how many fingers are up. This is for 
 ![Hand gesture](Handgesture.PNG)
 
 Demo:
+
+https://github.com/mwunguzi/Handgesture_robot/assets/25291859/badbe13d-79d6-4ac1-84a9-1ec27ff112a3
+
+
