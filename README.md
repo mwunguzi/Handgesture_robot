@@ -33,3 +33,8 @@ handgesture detection is based on counting how many fingers are up. This is for 
 <!-- Images -->
 ![Gesture pictures](gestures.PNG)
 
+## Results
+<!-- Images -->
+![Hand gesture](Handgesture.PNG)
+
+Demo:
